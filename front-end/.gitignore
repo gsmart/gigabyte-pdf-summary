@@ -1,0 +1,46 @@
+# macOS system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+env/
+venv/
+*.log
+*.sqlite3
+
+# Virtual environment for Conda
+conda-meta/
+*.conda
+*.lock
+
+# Python Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+*.env
+
+# Uploaded files and extracted content
+uploads/
+extracted_text/
+
+# IDE-specific files (VSCode, JetBrains, PyCharm)
+.vscode/
+.idea/
+*.iml
+
+# Flask and FastAPI logs
+*.log
+instance/
+
