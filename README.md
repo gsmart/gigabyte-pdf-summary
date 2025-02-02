@@ -151,8 +151,6 @@ ollama pull t5
 1. Open the React app.
 2. Drag and drop a **PDF file (up to 5GB)**.
 3. The system will upload in chunks and process the document.
-4. Once processing reaches **87%**, the UI will display `"Processing a document"`.
-5. After 87%, the UI updates to `"Working on Summary"`.
 
 ### API Endpoints
 
